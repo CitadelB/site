@@ -67,6 +67,19 @@
                 href="https://citadel-b.com/rs/"
                 />
   </url><url>
+    <loc>https://citadel-b.com/rs/tags/history/</loc>
+    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://citadel-b.com/tags/history/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://citadel-b.com/rs/tags/history/"
+                />
+  </url><url>
     <loc>https://citadel-b.com/rs/categories/history/</loc>
     <lastmod>2022-02-19T16:36:21+01:00</lastmod>
     <xhtml:link
@@ -79,12 +92,6 @@
                 hreflang="rs"
                 href="https://citadel-b.com/rs/categories/history/"
                 />
-  </url><url>
-    <loc>https://citadel-b.com/rs/tags/philosophy/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-  </url><url>
-    <loc>https://citadel-b.com/rs/categories/philosophy/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
   </url><url>
     <loc>https://citadel-b.com/rs/posts/</loc>
     <lastmod>2022-02-19T16:36:21+01:00</lastmod>
