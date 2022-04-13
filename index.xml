@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 19 Feb 2022 16:36:21 +0100</lastBuildDate><atom:link href="https://citadel-b.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 01:33:29 +0200</lastBuildDate><atom:link href="https://citadel-b.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are Bitcoiners Mad?</title>
+      <link>https://citadel-b.com/posts/mad_bitcoiners/</link>
+      <pubDate>Wed, 13 Apr 2022 01:33:29 +0200</pubDate>
+      
+      <guid>https://citadel-b.com/posts/mad_bitcoiners/</guid>
+      <description>Interview with Bitcoin&amp;rsquo;s global communication manager</description>
+    </item>
+    
     <item>
       <title>Citadel - ₿</title>
       <link>https://citadel-b.com/posts/citadel/</link>

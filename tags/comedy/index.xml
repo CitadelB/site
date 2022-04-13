@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Bitcoin on Citadel - ₿</title>
-    <link>https://citadel-b.com/tags/bitcoin/</link>
-    <description>Recent content in Bitcoin on Citadel - ₿</description>
+    <title>Comedy on Citadel - ₿</title>
+    <link>https://citadel-b.com/tags/comedy/</link>
+    <description>Recent content in Comedy on Citadel - ₿</description>
     <image>
       <url>https://citadel-b.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://citadel-b.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 Apr 2022 01:33:29 +0200</lastBuildDate><atom:link href="https://citadel-b.com/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Apr 2022 01:33:29 +0200</lastBuildDate><atom:link href="https://citadel-b.com/tags/comedy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Are Bitcoiners Mad?</title>
       <link>https://citadel-b.com/posts/mad_bitcoiners/</link>
@@ -18,15 +18,6 @@
       
       <guid>https://citadel-b.com/posts/mad_bitcoiners/</guid>
       <description>Interview with Bitcoin&amp;rsquo;s global communication manager</description>
-    </item>
-    
-    <item>
-      <title>Citadel - ₿</title>
-      <link>https://citadel-b.com/posts/citadel/</link>
-      <pubDate>Sat, 19 Feb 2022 16:36:21 +0100</pubDate>
-      
-      <guid>https://citadel-b.com/posts/citadel/</guid>
-      <description>Traveling to the future one day at a time.</description>
     </item>
     
   </channel>

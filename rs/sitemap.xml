@@ -2,47 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://citadel-b.com/rs/posts/citadel/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/posts/citadel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/posts/citadel/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/tags/bitcoin/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/tags/bitcoin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/tags/bitcoin/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/categories/bitcoin/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/categories/bitcoin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/categories/bitcoin/"
-                />
-  </url><url>
     <loc>https://citadel-b.com/rs/categories/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -55,7 +15,6 @@
                 />
   </url><url>
     <loc>https://citadel-b.com/rs/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -65,58 +24,6 @@
                 rel="alternate"
                 hreflang="rs"
                 href="https://citadel-b.com/rs/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/tags/history/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/tags/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/tags/history/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/categories/history/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/categories/history/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/categories/history/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/posts/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/posts/"
-                />
-  </url><url>
-    <loc>https://citadel-b.com/rs/tags/</loc>
-    <lastmod>2022-02-19T16:36:21+01:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://citadel-b.com/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://citadel-b.com/rs/tags/"
                 />
   </url><url>
     <loc>https://citadel-b.com/rs/series/</loc>
@@ -129,6 +36,18 @@
                 rel="alternate"
                 hreflang="rs"
                 href="https://citadel-b.com/rs/series/"
+                />
+  </url><url>
+    <loc>https://citadel-b.com/rs/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://citadel-b.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://citadel-b.com/rs/tags/"
                 />
   </url>
 </urlset>
